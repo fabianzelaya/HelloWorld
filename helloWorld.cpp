@@ -1,7 +1,7 @@
 /**
  * @file helloWorld.cpp
- * @author Fabian Zelaa (fabianzelayahn) - Instagram
- * @brief 
+ * @author Fabian Zelaya (www.fabianzelaya.com)
+ * @brief Hello World! - Assignment for Fundamentals of Computer Science I (CS 002) - Fall 2020.
  * @version 0.1
  * @date 2020-08-27
  * 
@@ -23,3 +23,4 @@ int main() //Main function
     return 0;
     // Return is optional.
 }
+// FZ
